@@ -21,7 +21,7 @@ To use this userscript, you will need a userscript manager. [Tampermonkey](https
    - Open your Tampermonkey or Violentmonkey dashboard by clicking the respective icon in your browser and selecting "Dashboard".
    - Click the following button to install the script:
 
-     [![Install Userscript](https://img.shields.io/badge/-Install%20Userscript-brightgreen?style=for-the-badge&logo=Tampermonkey&logoColor=white)](https://raw.githubusercontent.com/sermelipharo/LetterboxTrailerButton/main/letterboxd-trailer.user.jsx)
+     [![Install Userscript](https://img.shields.io/badge/-Install%20Userscript-brightgreen?style=for-the-badge&logo=Tampermonkey&logoColor=white)](https://raw.githubusercontent.com/sermelipharo/LetterboxTrailerButton/main/letterboxd-trailer.user.js)
 
    - Tampermonkey or Violentmonkey should prompt you to confirm the installation of the script. Approve the installation to proceed.
 
