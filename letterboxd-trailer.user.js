@@ -7,6 +7,7 @@
 // @description  Add a visible trailer button in the center of the backdrop header on Letterboxd film pages
 // @match        https://letterboxd.com/film/*/
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/sermelipharo/LetterboxTrailerButton/main/letterboxd-trailer.user.js
 // ==/UserScript==
 
 (function () {
