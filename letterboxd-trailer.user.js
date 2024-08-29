@@ -8,6 +8,7 @@
 // @match        https://letterboxd.com/film/*/
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/sermelipharo/LetterboxTrailerButton/main/letterboxd-trailer.user.js
+// @homepageURL  https://github.com/sermelipharo/LetterboxTrailerButton
 // ==/UserScript==
 
 (function () {
